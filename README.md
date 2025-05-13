@@ -11,10 +11,5 @@
 - ⚙️ Frameworks/Tools: Django, MySQL, Git, PowerShell  
 - 🌐 Learning: AWS, Web Dev, Bot Creation
 
----
 
-### 📌 Projects
-https://www.macrosfera.com/
----
 
-> “Adversity is a privilege.” – Alex Volkanovski
