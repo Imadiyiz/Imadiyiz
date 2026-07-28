@@ -1,5 +1,5 @@
 ## Hello, I'm Michael
-🎓 Computer Science Student @ Northumbria University
+Computer Science Graduate @ Northumbria University
 
 ### Tech Stack
 - 💻 Languages: Python, HTML/CSS, JavaScript
